@@ -15,3 +15,5 @@
 ​Added explicit <uses-sdk> and modernized application entry points to prevent installation blocks or runtime crashes.  
 ​🎯 Original Sony Experience Preserved (保留索尼原生体验)
 ​Retains the classic, clean Sony Xperia UI, stock styling, and deep integration features designed exclusively for Xperia hardware ecosystems.  
+
+软件著作权归SONY 公司所有，请勿运作商业用途。
